@@ -9,7 +9,7 @@ public class ex1 {
     Scanner scanner = new Scanner(System.in);
     //Declaração das variáveis
     double maior = 0, menor = 0, resultado;
-    //Solicita os números ao usuario
+    //Pede ao usuario 2 números
     System.out.print("Digite o primeiro número decimal: ");
     double num1 = scanner.nextDouble();
 
