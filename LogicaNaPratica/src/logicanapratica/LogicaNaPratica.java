@@ -6,8 +6,8 @@ public class LogicaNaPratica {
 
     public static void main(String[] args) {
         
-        ex2 ex = new ex2();
-        ex.numImpar();
+        ex3 ex = new ex3();
+        ex.subtracao();
     }
     
 }
