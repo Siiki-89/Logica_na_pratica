@@ -6,8 +6,8 @@ public class LogicaNaPratica {
 
     public static void main(String[] args) {
         
-        ex8 ex = new ex8();
-        ex.numTabuada();
+        ex9 ex = new ex9();
+        ex.analisarTxt();
     }
     
 }
